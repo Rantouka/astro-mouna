@@ -7,6 +7,7 @@ adresse: Cité du Stade, Djibouti
 email: nasiya1120@gmail.com
 telephone: "+253 77504527"
 skills:
+- nom: Dévelopement Front-End
 - nom: Capacité d'apprentissage
 - nom: 'Rédaction '
 - nom: Microsoft outils bureautique
