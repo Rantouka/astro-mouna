@@ -7,6 +7,7 @@ adresse: Cité du Stade, Djibouti
 email: nasiya1120@gmail.com
 telephone: "+253 77504527"
 skills:
+- nom: Capacité d'apprentissage
 - nom: 'Rédaction '
 - nom: Microsoft outils bureautique
 
@@ -17,7 +18,7 @@ Compétences
 
 Microsoft outils bureautique 100%
 Rédaction 80%
-Capacité d'apprentissage 70%
+Capacité d'apprentissage Capacité d'apprentissage
 Dévelopement Front-End 60%
 
 Langues
