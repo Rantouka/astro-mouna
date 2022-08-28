@@ -6,6 +6,8 @@ fonction: Dancer
 adresse: Cité du Stade, Djibouti
 email: nasiya1120@gmail.com
 telephone: "+253 77504527"
+skills:
+- nom: Microsoft outils bureautique
 
 ---
 # hello !
