@@ -8,7 +8,7 @@ sections:
   path: src/pages
   label: cv2
   create: all
-  match: src/pages
+  match: "**/*"
   templates:
   - cv
 - type: document
