@@ -10,6 +10,7 @@ skills:
 - nom: Dévelopement Front-End
   pourcentage: 60
 - nom: Capacité d'apprentissage
+  pourcentage: 70
 - nom: 'Rédaction '
 - nom: Microsoft outils bureautique
 
