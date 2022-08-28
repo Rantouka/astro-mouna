@@ -8,6 +8,7 @@ email: nasiya1120@gmail.com
 telephone: "+253 77504527"
 skills:
 - nom: Dévelopement Front-End
+  pourcentage: 60
 - nom: Capacité d'apprentissage
 - nom: 'Rédaction '
 - nom: Microsoft outils bureautique
