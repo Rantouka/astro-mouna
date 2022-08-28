@@ -1,13 +1,13 @@
 ---
-layout: ../layouts/CvLayout.astro
+layout: "../layouts/CvLayout.astro"
 titre: Mouna Mahamoud
-image: ./images/mouna3.jpg
-fonction: Digital Marketer
+image: "./images/mouna3.jpg"
+fonction: Dancer
 adresse: Cité du Stade, Djibouti
 email: nasiya1120@gmail.com
-telephone: +253 77504527
----
+telephone: "+253 77504527"
 
+---
 # hello !
 
 Compétences
