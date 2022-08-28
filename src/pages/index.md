@@ -12,6 +12,7 @@ skills:
 - nom: Capacité d'apprentissage
   pourcentage: 70
 - nom: 'Rédaction '
+  pourcentage: 80
 - nom: Microsoft outils bureautique
 
 ---
