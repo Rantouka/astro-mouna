@@ -14,6 +14,7 @@ skills:
 - nom: 'Rédaction '
   pourcentage: 80
 - nom: Microsoft outils bureautique
+  pourcentage: 100
 
 ---
 # hello !
